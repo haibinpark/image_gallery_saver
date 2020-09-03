@@ -24,6 +24,8 @@
 	<true/>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string></string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>$(PRODUCT_NAME)需要使用该权限。</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
