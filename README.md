@@ -11,7 +11,9 @@ We use the `image_picker` plugin to select images from the Android and iOS image
 To use this plugin, add `image_gallery_saver` as a dependency in your pubspec.yaml file. For example:
 ```yaml
 dependencies:
-  image_gallery_saver: '^1.5.0'
+  flutter_file_preview:
+    git:
+        url: git@github.com:haibinpark/image_gallery_saver.git
 ```
 
 ## iOS
