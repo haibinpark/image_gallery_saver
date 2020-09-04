@@ -13,7 +13,7 @@ To use this plugin, add `image_gallery_saver` as a dependency in your pubspec.ya
 dependencies:
   image_gallery_saver:
     git:
-        url: git@github.com:haibinpark/image_gallery_saver.git
+      git://github.com/haibinpark/image_gallery_saver.git
 ```
 
 ## iOS
