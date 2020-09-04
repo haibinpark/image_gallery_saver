@@ -49,3 +49,5 @@ _saveVideo() async {
     print(result);
  }
 ```
+# fix bug
+解决了iOS下保存图片不能够返回图片路径的问题。
